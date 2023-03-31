@@ -13,7 +13,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="26sp"
+        android:textSize="28sp"
         android:layout_marginTop="24dp"
         android:textStyle="bold"
         android:layout_marginBottom="24dp"
@@ -33,7 +33,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="24dp"
-        android:textSize="26sp"
+        android:textSize="28sp"
         android:textStyle="bold"
         android:text="21.12.1997" />
 
@@ -48,7 +48,7 @@
         android:id="@+id/tvAgeInMinutes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="26sp"
+        android:textSize="28sp"
         android:layout_marginBottom="24dp"
         android:textStyle="bold"
         android:text="1400000" />
